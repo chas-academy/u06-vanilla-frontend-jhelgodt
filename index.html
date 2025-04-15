@@ -7,9 +7,18 @@
     <title>Vite + TS</title>
   </head>
   <body>
-    <div id="app"></div>
-    <h1>Book List</h1>
-    <ul id="book-list"></ul>
+    <div id="app">
+      <h2>Add a New Book</h2>
+      <form id="book-form">
+        <input type="text" id="title" placeholder="Title" required />
+        <input type="text" id="author" placeholder="Author" required />
+        <input type="number" id="year" placeholder="Published Year" required />
+        <input type="text" id="genre" placeholder="Genre" required />
+        <button type="submit">Add Book</button>
+      </form>
+      <h1>Book List</h1>
+      <ul id="book-list"></ul>
+    </div>
 
     <script type="module" src="/src/main.ts"></script>
   </body>
