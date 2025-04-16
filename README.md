@@ -7,6 +7,11 @@ This is a small frontend application built with TypeScript and Vite, designed to
 Open the deployed app on Netlify:  
 https://67fe360a74f67e39ab935c67--dainty-gumption-91dd9f.netlify.app/
 
+## 🖌️ Figma Design Document
+
+View the wireframe and layout plan on Figma:  
+https://www.figma.com/board/MGzDBoDm4IqdWw59yjBebu/Wireframe--U06-?node-id=1-2&t=dGnFAi4yjCVqP1FU-1
+
 ## 🛠 Tech Stack
 
 - TypeScript
